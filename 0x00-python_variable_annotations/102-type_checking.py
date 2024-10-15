@@ -24,4 +24,3 @@ def zoom_array(lst: Tuple, factor: int = 2) -> List:
         for i in range(int(factor))
     ]
     return zoomed_in
-
